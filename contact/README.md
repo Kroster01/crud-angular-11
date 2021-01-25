@@ -37,3 +37,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
     * ng g m pages/home --module app --route home
     * ng g m pages/contact --module app --route contact
     * ng g c shared/components/header --module app
+    * ng g m shared/components/header --module app
