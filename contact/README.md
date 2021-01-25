@@ -26,7 +26,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-# pasos.
+
+# NOTAS:
+1.- ng s --hmr
+    * Hot Module Replacement -> recargar solo la sección que se modifica.
+
+# PASOS.
 1.- creación del proyceto
 2.- creación modulo pages/home
     * ng g m pages/home --module app --route home
+    * ng g m pages/contact --module app --route contact
