@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "formularios-48a83": {
+      "hosting": {
+        "contact": [
+          "formularios-48a83"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "formularios-48a83"
+  }
+}
